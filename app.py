@@ -39,3 +39,5 @@ if __name__ == "__main__":
     decrypted_img = decrypt_image(encrypted_img, key)
     decrypted_img.save("decrypted_image.png")
     print("Image decrypted and saved as decrypted_image.png")
+
+
