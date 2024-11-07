@@ -16,4 +16,4 @@ This project demonstrates a basic image encryption tool using pixel manipulation
 ## Getting Started
 1. Clone the repository.
    ```bash
-   git clone https://github.com/manilreddy1/image-encryption-tool.git
+   git clone https://github.com/manilreddy1/StartHere_CS_02.git
