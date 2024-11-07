@@ -1,0 +1,10 @@
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore node_modules if using npm
+node_modules/
+
+# Ignore any system files
+.DS_Store
+*.log
