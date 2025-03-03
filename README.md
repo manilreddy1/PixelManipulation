@@ -1,4 +1,4 @@
-# StartHere_CS_02
+# Pixel Manipulation
 # Pixel Manipulation for Image Encryption
 
 ## Overview
